@@ -23,7 +23,7 @@ button {
                 -1vh 1vh 2vh rgb(255, 0, 0);
 }
 #menu {
-    width: 100%;
+    width: 50%;
     height: 20%;
     position: absolute;
     top: 50%;
