@@ -21,7 +21,6 @@ button {
     margin: 3vh;
     /* color: rgb(145, 145, 145); */
     border-radius: 2vh;
-    text-shadow: 0.1vh 0.1vh 0.5vh orange;
     box-shadow: 1vh 1vh 2vh lightblue, 
                 -1vh -1vh 2vh lightblue,
                 1vh -1vh 2vh lightblue,
