@@ -7,6 +7,7 @@ h1 {
     font-family:'Courier New', Courier, monospace;
     font-weight: 900;
     position: absolute;
+    font-size: x-large;
     left: 50%;
     top: 0vh;
     transform: translate(-50%, -50%);
@@ -16,21 +17,22 @@ button {
     background-color: greenyellow;
     color: white;
     border: none;
-    padding:  3vh;
+    padding:  1.75vh;
     font-size: x-large;
-    margin: 3vh;
-    /* color: rgb(145, 145, 145); */
     border-radius: 2vh;
+    margin: 3.5vh;
     box-shadow: 1vh 1vh 2vh lightblue, 
                 -1vh -1vh 2vh lightblue,
                 1vh -1vh 2vh lightblue,
                 -1vh 1vh 2vh lightblue;
 }
 #menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 50%;
-    height: 20%;
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-25%, -50%);
+    transform: translate(-50%, -50%);
 }
