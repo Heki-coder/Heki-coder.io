@@ -14,7 +14,7 @@ h1 {
     text-shadow: 0.1vh 0.1vh 0.5vh orange, 0.1vh -0.1vh 0.5vh orange, -0.1vh 0.1vh 0.5vh orange, -0.1vh -0.1vh 0.5vh orange;
 }
 button {
-    background-color: greenyellow;
+    background-color: orange;
     color: white;
     border: none;
     padding:  1.75vh;
